@@ -19,4 +19,5 @@ El juego proporciona retroalimentación al usuario si el número adivinado es me
 - JavaScript: para la funcionalidad y la lógica del juego.
 
 ## Captura de pantalla
-[]
+![JS Game](https://github.com/user-attachments/assets/9b9e56a8-0973-4fc7-a804-0333d0cf9409)
+
